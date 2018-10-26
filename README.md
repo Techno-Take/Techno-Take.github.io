@@ -1,24 +1,15 @@
 # 2048
-A small modification of the clone of [2048](http://gabrielecirulli.github.io/2048/), based on [Saming's 2048](http://saming.fr/p/2048/) (also a clone).
+A small modification of the clone of [2048](https://github.com/2048iitb/2048).
 
 Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
 
-The official app can also be found on the [Play Store](https://play.google.com/store/apps/details?id=com.gabrielecirulli.app2048) and [App Store!](https://itunes.apple.com/us/app/2048-by-gabriele-cirulli/id868076805)
+### Contribution
 
-### Contributions
+[Devanand R](https://github.com/devanandR) is the maintainer for this repository.
 
-[Anna Harren](https://github.com/iirelu/) and [sigod](https://github.com/sigod) are maintainers for this repository.
 
-Other notable contributors:
-
- - [TimPetricola](https://github.com/TimPetricola) added best score storage
- - [chrisprice](https://github.com/chrisprice) added custom code for swipe handling on mobile
- - [marcingajda](https://github.com/marcingajda) made swipes work on Windows Phone
- - [mgarciaisaia](https://github.com/mgarciaisaia) added support for Android 2.3
-
-Many thanks to [rayhaanj](https://github.com/rayhaanj), [Mechazawa](https://github.com/Mechazawa), [grant](https://github.com/grant), [remram44](https://github.com/remram44) and [ghoullier](https://github.com/ghoullier) for the many other good contributions.
-
-### Screenshot
+Techno-Take is the modified version of 2048. Istead using number tiles e.g. 2, 4, 8,..., 1024, 2048,
+it uses different vehicles such as wheel, cycle, aut-rickshaw, byke ...etc.### Screenshot
 
 <p align="center">
   <img src="http://pictures.gabrielecirulli.com/2048-20140309-234100.png" alt="Screenshot"/>
