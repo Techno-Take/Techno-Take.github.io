@@ -1,7 +1,7 @@
 # 2048
-A small modification of the clone of [2048](https://github.com/2048iitb/2048).
+A small modification of the clone of [2048](http://gabrielecirulli.github.io/2048/).
 
-Made just for fun. [Play it here!](http://gabrielecirulli.github.io/2048/)
+Made just for fun. [Play it here!](https://devanandr.github.io/)
 
 ### Contribution
 
