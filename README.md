@@ -9,7 +9,7 @@ Made just for fun. [Play it here!](https://devanandr.github.io/)
 
 
 Techno-Take is the modified version of 2048. Istead using number tiles e.g. 2, 4, 8,..., 1024, 2048,
-it uses different vehicles such as wheel, cycle, aut-rickshaw, byke ...etc.### Screenshot
+it uses different vehicles such as wheel, cycle, aut-rickshaw, bike, car,...etc.### Screenshot
 
 
 ## Contributing
